@@ -160,3 +160,28 @@ hr {
     padding-bottom: 50px;
 }
 
+#red {
+    background: #ff7878;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#red h4 {
+    font-size: 45px;
+}
+
+#footer {
+    background: #2d2d2d;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#footer i {
+    color: #bdbdbd;
+    font-size: 30px;
+    padding: 20px;
+}
+
+#footer i:hover {
+    color: #f78787;
+}
